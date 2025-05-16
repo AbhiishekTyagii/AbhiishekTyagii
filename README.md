@@ -63,7 +63,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=notion,androidstudio,canva,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=notion,androidstudio,gcp,gradle,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
