@@ -63,10 +63,10 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=notion,androidstudio,firebase,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=notion,androidstudio,canva,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,macOs"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,apple"/></td>
     </tr> 
 </table>
