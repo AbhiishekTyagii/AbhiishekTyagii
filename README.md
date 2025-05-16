@@ -8,22 +8,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heisenberg300604&label=Profile%20views&color=0e75b6&style=flat" alt="heisenberg300604" /> </p>
 
-- 🌱 I’m currently learning **DSA, Java and GoLang**
+- 🌱 I’m currently learning **Flutter, Java and React**
 
 - 🛠️ I’m currently working on **IOT and AI Based Projects**
 
-- 💬 Ask me about **Web Development !**
+- 💬 Ask me about **Web Development & Android Development!**
 
-- 📫 How to reach me **nibedanpati@gmail.com**
+- 📫 How to reach me **developers.usualdev@gmail.com**
 
 - 👨‍💻 I love to attend Tech events/Meetups and make new connections.
 
-- ⚡ Strong intrest in **DevOps and CyberSecurity**. 
+- ⚡ Strong intrest in **Android and Flutter**. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nibedanpati" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=twitter"/></a>
-<a href="https://www.linkedin.com/in/nibedan-pati-2139b3277/" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
+
+<a href="https://www.linkedin.com/in/abhiishektyagii" target="blank"><img height="40" align="center" src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 ### Languages and Tools I Use 👨🏻‍💻
@@ -31,26 +31,22 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,java,c,python"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,java,c,python"/></td>
     </tr>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,redux,materialui,html,css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,bootstrap,materialui,html,css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,postman,redis"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,postman"/><img height="40" src="https://imgs.search.brave.com/f4RnlZ2475hE0WW0UVIxWR291pSHpgJbK_xZEHm6QoI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zb2NrZXQt/aW8taWNvbi01MTJ4/NTExLXhqcDdreng2/LnBuZw" alt="Socket.io" width="40" height="40" style="margin-left: 10px;"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/></td>
     </tr>
      <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Python Frameworks:</td>
-    <td>
-        <img height="40" src="https://skillicons.dev/icons?i=flask"/>
-        <img height="40" src="https://imgs.search.brave.com/CjiZ1b8Me_qlPgtNygMwHznMU51jEt21ik_x4Z3p7ug/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pY29u/LmljZXBhbmVsLmlv/L1RlY2hub2xvZ3kv/c3ZnL1N0cmVhbWxp/dC5zdmc"/>
-    </td>
+    
 </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -63,20 +59,14 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,replit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,visualstudio"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=npm,bun,appwrite,notion,androidstudio,firebase,figma,supabase"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=npm,appwrite,notion,androidstudio,firebase,figma"/><img src="https://imgs.search.brave.com/acMhc0fYPEVXN2RVICLf-WgKTQQbOnnF-Cn4DmuvHAg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWMt/Y2RuLmF0bGFzc2lh/bi5jb20vZGFtL2pj/cjpmYTAxNzU2ZC02/ZGNjLTQ1ZDEtODNh/Yi02OTZmYmZlYjA3/NGYvSmlyYS1pY29u/LWJsdWUuc3ZnP2Nk/blZlcnNpb249MjQ0/Nw" alt="Jira" width="40" height="40"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,macos"/></td>
     </tr> 
 </table>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heisenberg300604&show_icons=true&locale=en&layout=compact" alt="heisenberg300604" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heisenberg300604&show_icons=true&locale=en" alt="heisenberg300604" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heisenberg300604&" alt="heisenberg300604" /></p>
