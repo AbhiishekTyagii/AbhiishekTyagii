@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-    <img src="https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?size=626&ext=jpg" style="width: 100%;" alt="MasterHead">
+    <img src="https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg" style="width: 100%;" alt="MasterHead">
 </a>
 <h1 align="center">Hi 👋, I'm Abhishek Tyagi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
